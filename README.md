@@ -1,4 +1,4 @@
-# Tour list
+# React Tabs
 6th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. This project was built using UseEffect to provide data from an API and UseState to give function to the buttons where you can select the rendered item.
 
 ### 🛠 Tools:
